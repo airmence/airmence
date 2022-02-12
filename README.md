@@ -1,0 +1,5 @@
+- 👋 Hi, I’m hermence
+- 👀 I’m interested in racing game
+- 🌱 I’m currently learning vim, c/c++
+- 💞️ I’m looking to collaborate on kdenlive
+- 📫 How to reach me airmence@outlook.fr
