@@ -1,0 +1,6 @@
+#paste it in ~/.config/gtk-3.0/settings.init
+#create the file if settings.init does not exist
+
+[settings]
+gtk-enable-mnemonics = o
+gtk-enable-accels= 1
